@@ -1,3 +1,13 @@
+Technical Stage Solution - Car Listings API
+
+I implemented the three requested endpoints including filter queries, and an associated test suite.
+
+Useability testing was conducted using curl to request endpoints.
+
+I enjoyed this task a lot. Many thanks!
+
+---
+
 This repository is for a technical task in Typescript provided by Motorpoint.
 
 Clone this repository and complete the following tasks.
